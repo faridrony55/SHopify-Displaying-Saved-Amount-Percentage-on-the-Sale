@@ -1,1 +1,1 @@
-# SHopify-Displaying-Saved-Amount-Percentage-on-the-Sale-
+# SHopify-Displaying-Saved-Amount-Percentage-on-the-Sale
